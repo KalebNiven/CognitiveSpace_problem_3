@@ -8,6 +8,6 @@ sudo apt-get install git -yes
 
 sudo git clone https://github.com/KalebNiven/CognitiveSpace_problem_3.git
 
-cd DevOps-using-ansible
+cd CognitiveSpace_problem_3
 
 ansible-playbook -i inventory.yml playbook.yml
