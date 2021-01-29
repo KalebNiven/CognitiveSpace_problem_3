@@ -1,7 +1,5 @@
 # DevOps-using-ansible
-IP address: 18.218.249.48 
-
-use cognitive_space.pem for ssh
+IP address: 146.59.230.26
 
 Navigate to home directory ("cd.." after  connecting ssh)
 
